@@ -12,6 +12,18 @@
   </a> 
 </p>
 
+## About Me
+
+Soy Robert Blanco, un entusiasta del ámbito de la Ciencia de Datos, con una sólida experiencia en el área de ingeniería de datos. A lo largo de mi carrera, trabajé en el desarrollo de estrategias y soluciones tecnológicas orientadas a optimizar el procesamiento y la escalabilidad de los sistemas de datos, siempre con el objetivo de maximizar su rendimiento y eficiencia.
+
+Me considero una persona curiosa, analítica y comprometida, características que me permiten abordar proyectos con una perspectiva crítica y meticulosa. Mi pasión por aprender constantemente me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y metodologías en el campo de la Ciencia de Datos. Además, disfruto enfrentando retos complejos que requieren soluciones creativas e innovadoras, lo cual me motiva a seguir creciendo y mejorando en mi profesión.
+
+Colaboré en proyectos que abarcan desde la implementación de infraestructuras de datos robustas hasta la automatización de procesos que permiten el manejo de grandes volúmenes de información de manera eficiente. Mi capacidad para entender tanto los aspectos técnicos como los objetivos de negocio me permite ofrecer soluciones alineadas con las necesidades estratégicas de las organizaciones.
+
+Además, valoro profundamente el trabajo en equipo y la colaboración interdisciplinaria. Creo que compartir conocimientos y aprender de otros profesionales es clave para crear soluciones de alto impacto. A lo largo de mi trayectoria, he tenido la oportunidad de trabajar con equipos diversos, lo que ha enriquecido mi visión y mis habilidades.
+
+Mi objetivo es seguir desarrollándome en este campo dinámico y contribuir de manera significativa a proyectos que impulsen la innovación y la transformación digital. Estoy comprometido con el crecimiento constante, tanto a nivel personal como profesional, y me esfuerzo por estar a la vanguardia de las tecnologías que impulsan el futuro de los datos.
+
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/d-jesus-blanco" target="blank">
