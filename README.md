@@ -1,7 +1,10 @@
 <h1 align="center">Hola 👋, soy D' Jesús</h1> 
+
 <h3 align="center">Un DataScience en Buenos Aires</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djesus1987&label=Profile%20views&color=0e75b6&style=flat" alt="djesus1987" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djesus1987&label=Profile%20views&color=0e75b6&style=flat" alt="djesus1987" /> 
+
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djesus1987" alt="djesus1987" /></a> </p>
 
