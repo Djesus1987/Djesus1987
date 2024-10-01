@@ -14,15 +14,15 @@
 
 ## About Me
 
-Soy Robert Blanco, un entusiasta del ámbito de la Ciencia de Datos, con una sólida experiencia en el área de ingeniería de datos. A lo largo de mi carrera, trabajé en el desarrollo de estrategias y soluciones tecnológicas orientadas a optimizar el procesamiento y la escalabilidad de los sistemas de datos, siempre con el objetivo de maximizar su rendimiento y eficiencia.
+Soy un apasionado recién graduado en Ciencia de Datos con una sólida formación en ingeniería de datos. Durante mi formación académica, adquirí experiencia en el desarrollo de estrategias y soluciones tecnológicas diseñadas para optimizar el procesamiento y la escalabilidad de los sistemas de datos. Mi enfoque siempre ha estado en mejorar el rendimiento y la eficiencia de los procesos relacionados con el manejo de grandes volúmenes de
 
-Me considero una persona curiosa, analítica y comprometida, características que me permiten abordar proyectos con una perspectiva crítica y meticulosa. Mi pasión por aprender constantemente me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y metodologías en el campo de la Ciencia de Datos. Además, disfruto enfrentando retos complejos que requieren soluciones creativas e innovadoras, lo cual me motiva a seguir creciendo y mejorando en mi profesión.
+Me considero una persona curiosa, analítica y comprometida, cualidades que me permiten abordar proyectos con una visión crítica y detallada. Mi entusiasmo por aprender constantemente me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y metodologías en el campo de la Ciencia de Datos. Disfruto enfrentando retos complejos que requieren soluciones creativas, y esto me motiva a seguir creciendo en mi c
 
-Colaboré en proyectos que abarcan desde la implementación de infraestructuras de datos robustas hasta la automatización de procesos que permiten el manejo de grandes volúmenes de información de manera eficiente. Mi capacidad para entender tanto los aspectos técnicos como los objetivos de negocio me permite ofrecer soluciones alineadas con las necesidades estratégicas de las organizaciones.
+Aunque soy recién graduado, colaboró ​​en proyectos académicos y personales enfocados en la implementación de infraestructuras de datos robustas y la automatización de procesos para la gestión eficiente de la información. Mi capacidad para entender tanto los aspectos técnicos como las necesidades estratégicas de las organizaciones me permite aportar soluciones alineadas.
 
-Además, valoro profundamente el trabajo en equipo y la colaboración interdisciplinaria. Creo que compartir conocimientos y aprender de otros profesionales es clave para crear soluciones de alto impacto. A lo largo de mi trayectoria, he tenido la oportunidad de trabajar con equipos diversos, lo que ha enriquecido mi visión y mis habilidades.
+Valoro profundamente el trabajo en equipo y la colaboración interdisciplinaria. Considera que compartir conocimientos y aprender de otros profesionales es esencial para desarrollar soluciones innovadoras y de alto impacto. A lo largo de mis estudios, tuve la oportunidad de trabajar con equipos diversos, lo que ha enriquecido mis habilidades y mi capacidad para adaptarme a diferentes ent.
 
-Mi objetivo es seguir desarrollándome en este campo dinámico y contribuir de manera significativa a proyectos que impulsen la innovación y la transformación digital. Estoy comprometido con el crecimiento constante, tanto a nivel personal como profesional, y me esfuerzo por estar a la vanguardia de las tecnologías que impulsan el futuro de los datos.
+Mi objetivo es seguir desarrollándome en el campo de la Ciencia de Datos, participando en proyectos que impulsan la innovación y la transformación digital. Estoy comprometido con mi crecimiento continuo, tanto a nivel personal como profesional, y busco estar a la vanguardia de las tecnologías que lideran el futuro de los datos.
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
