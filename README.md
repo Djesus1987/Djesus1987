@@ -20,7 +20,7 @@ Me considero una persona curiosa, analítica y comprometida, características qu
 
 Colaboré en proyectos que abarcan desde la implementación de infraestructuras de datos robustas hasta la automatización de procesos que permiten el manejo de grandes volúmenes de información de manera eficiente. Mi capacidad para entender tanto los aspectos técnicos como los objetivos de negocio me permite ofrecer soluciones alineadas con las necesidades estratégicas de las organizaciones.
 
-Además, valoro profundamente el trabajo en equipo y la colaboración interdisciplinaria. Creo que compartir conocimientos y aprender de otros profesionales es clave para crear soluciones de alto impacto. A lo largo de mi trayectoria, he tenido la oportunidad de trabajar con equipos diversos, lo que ha enriquecido mi visión y mis habilidades.
+Además, valoro profundamente el trabajo en equipo y la colaboración interdisciplinaria. Creo que compartir conocimientos y aprender de otros profesionales es clave para crear soluciones de alto impacto. A lo largo de mi carrera, he tenido la oportunidad de trabajar con equipos diversos, lo que ha enriquecido mi visión y mis habilidades.
 
 Mi objetivo es seguir desarrollándome en este campo dinámico y contribuir de manera significativa a proyectos que impulsen la innovación y la transformación digital. Estoy comprometido con el crecimiento constante, tanto a nivel personal como profesional, y me esfuerzo por estar a la vanguardia de las tecnologías que impulsan el futuro de los datos.
 
