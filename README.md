@@ -14,7 +14,7 @@
 
 ## About Me
 
-Soy Robert Blanco, un entusiasta del ámbito de la Ciencia de Datos, con una sólida experiencia en el área de ingeniería de datos. A lo largo de mi carrera, trabajé en el desarrollo de estrategias y soluciones tecnológicas orientadas a optimizar el procesamiento y la escalabilidad de los sistemas de datos, siempre con el objetivo de maximizar su rendimiento y eficiencia.
+Soy un entusiasta del ámbito de la Ciencia de Datos, con sólidas capacidades en el área de ingeniería de datos. A lo largo de mi carrera, trabajé en el desarrollo de estrategias y soluciones tecnológicas orientadas a optimizar el procesamiento y la escalabilidad de los sistemas de datos, siempre con el objetivo de maximizar su rendimiento y eficiencia.
 
 Me considero una persona curiosa, analítica y comprometida, características que me permiten abordar proyectos con una perspectiva crítica y meticulosa. Mi pasión por aprender constantemente me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y metodologías en el campo de la Ciencia de Datos. Además, disfruto enfrentando retos complejos que requieren soluciones creativas e innovadoras, lo cual me motiva a seguir creciendo y mejorando en mi profesión.
 
