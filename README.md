@@ -16,11 +16,11 @@
 
 ## About Me
 
-Soy un apasionado recién graduado en Ciencia de Datos con una sólida formación en ingeniería de datos. Durante mi formación académica, adquirí experiencia en el desarrollo de estrategias y soluciones tecnológicas diseñadas para optimizar el procesamiento y la escalabilidad de los sistemas de datos. Mi enfoque siempre ha estado en mejorar el rendimiento y la eficiencia de los procesos relacionados con el manejo de grandes volúmenes de
+Soy un profesioal apasionado de la Ciencia de Datos con una sólida formación en ingeniería de datos. Durante mi formación académica, adquirí experiencia en el desarrollo de estrategias y soluciones tecnológicas diseñadas para optimizar el procesamiento y la escalabilidad de los sistemas de datos. Mi enfoque siempre ha estado en mejorar el rendimiento y la eficiencia de los procesos relacionados con el manejo de grandes volúmenes de
 
 Me considero una persona curiosa, analítica y comprometida, cualidades que me permiten abordar proyectos con una visión crítica y detallada. Mi entusiasmo por aprender constantemente me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y metodologías en el campo de la Ciencia de Datos. Disfruto enfrentando retos complejos que requieren soluciones creativas, y esto me motiva a seguir creciendo en mi c
 
-Aunque soy recién graduado, colaboró ​​en proyectos académicos y personales enfocados en la implementación de infraestructuras de datos robustas y la automatización de procesos para la gestión eficiente de la información. Mi capacidad para entender tanto los aspectos técnicos como las necesidades estratégicas de las organizaciones me permite aportar soluciones alineadas.
+Colaboró ​​en proyectos académicos y personales enfocados en la implementación de infraestructuras de datos robustas y la automatización de procesos para la gestión eficiente de la información. Mi capacidad para entender tanto los aspectos técnicos como las necesidades estratégicas de las organizaciones me permite aportar soluciones alineadas.
 
 Valoro profundamente el trabajo en equipo y la colaboración interdisciplinaria. Considera que compartir conocimientos y aprender de otros profesionales es esencial para desarrollar soluciones innovadoras y de alto impacto. A lo largo de mis estudios, tuve la oportunidad de trabajar con equipos diversos, lo que ha enriquecido mis habilidades y mi capacidad para adaptarme a diferentes ent.
 
